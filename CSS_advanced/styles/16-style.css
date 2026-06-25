@@ -94,6 +94,12 @@ a:active {
   text-transform: var(--section-tagline-transform);
 }
 
+/* Layout container */
+.container {
+  width: 960px;
+  margin: 0 auto;
+}
+
 /* Section body and footer spacing */
 .section-body {
   padding: var(--section-body-padding);
